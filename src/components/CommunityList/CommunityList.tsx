@@ -61,9 +61,9 @@ const CommunityList = ({ communities, homes }: Props) => {
                             Average Price: {averagePrice}
                           </Typography>
                         </Box>
-                        <IconButton aria-label="show more">
+                        <Box display="flex" justifyContent="center" alignItems="center">
                           {isExpanded(community.id) ? <ExpandLessIcon /> : <ExpandMoreIcon />}
-                        </IconButton>
+                        </Box>
                       </Box>
                     </CardContent>
                   </CardActionArea>
