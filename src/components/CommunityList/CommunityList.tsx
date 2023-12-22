@@ -49,6 +49,10 @@ const CommunityList = ({ communities, homes }: Props) => {
                       height="140"
                       image={community.imgUrl || defaultImg}
                       alt={community.name}
+                      onError={(e: React.SyntheticEvent<HTMLImageElement, Event>) => {
+                        const target = e.target as HTMLImageElement;
+                        target.src = defaultImg;
+                      }}
                     />
                     <CardContent>
                       <Box display="flex" justifyContent="space-between" alignItems="center">
