@@ -27,5 +27,5 @@ Q: If given more time, how would you improve the quality of your application? Wo
 A: If I have more time to complete this app, I will consider creating a layout similar to Google Maps or Realtor.ca, which requires the Google API as well as an npm package called react-google-maps. I plan to display the communities in a list on the left and a Google Map component on the right. When a user clicks on one of the communities, house properties will be indicated with markers on the Google Map. This will provide better visualization for the user, giving them a clearer idea of the geolocation of surrounding areas, including schools, transit, and other interesting destinations they might be searching for.
 
 ![App Image 1](https://drive.google.com/uc?export=view&id=13SD0yTFSlo2LXWbfoXck4jMB7yhAUYKf)
-![App Image 2](https://drive.google.com/uc?export=view&id=13aIAiaTCmNON39Q4CUg1mnlQyIV7LUM1)
-![App Image 3](https://drive.google.com/uc?export=view&id=13QzgslAe6cdQZFU9OpA9bsr-abS4seiw)
+![App Image 2](https://drive.google.com/uc?export=view&id=13QzgslAe6cdQZFU9OpA9bsr-abS4seiw)
+![App Image 3](https://drive.google.com/uc?export=view&id=13aIAiaTCmNON39Q4CUg1mnlQyIV7LUM1)
